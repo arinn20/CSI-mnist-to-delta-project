@@ -1,0 +1,1 @@
+Put sample MNIST PNGs here (0–9 folders).
